@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/tenzies-game/static/css/main.8bc6e29a.css",
+    "main.js": "/github.io/tenzies-game/static/js/main.38364433.js",
+    "static/media/yeah sound.mp3": "/github.io/tenzies-game/static/media/yeah sound.49bb2e007aa0da595e6f.mp3",
+    "index.html": "/github.io/tenzies-game/index.html",
+    "main.8bc6e29a.css.map": "/github.io/tenzies-game/static/css/main.8bc6e29a.css.map",
+    "main.38364433.js.map": "/github.io/tenzies-game/static/js/main.38364433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc6e29a.css",
+    "static/js/main.38364433.js"
+  ]
+}
