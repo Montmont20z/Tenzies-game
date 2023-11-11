@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import yeah from '../audios/yeah sound.mp3'
-
+import Confitte from 'react-confetti'
 
 export default function Main(){
 
@@ -81,6 +81,7 @@ export default function Main(){
 
     return (
         <main className='main'>
+            {winStatus && <Confitte />}
             <div className='outside'>
                 <div className='inside'>
                     <h1 className='title'>Tenzies</h1>
